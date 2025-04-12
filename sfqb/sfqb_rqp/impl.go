@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"git.adapticode.com/libraries/golang/sfqb"
-	"git.adapticode.com/libraries/golang/utils/random"
+	"github.com/Kazzess/libraries/sfqb"
+	"github.com/Kazzess/libraries/utils/random"
 	rqp "github.com/timsolov/rest-query-parser"
 )
 

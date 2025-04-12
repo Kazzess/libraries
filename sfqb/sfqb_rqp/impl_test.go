@@ -3,7 +3,7 @@ package sfqb_rqp
 import (
 	"testing"
 
-	"git.adapticode.com/libraries/golang/sfqb"
+	"github.com/Kazzess/libraries/sfqb"
 	"github.com/Masterminds/squirrel"
 	"github.com/stretchr/testify/assert"
 )
