@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"git.adapticode.com/libraries/golang/core/safe"
+	"github.com/Kazzess/libraries/core/safe"
 
 	"github.com/stretchr/testify/assert"
 )
