@@ -1,5 +1,5 @@
-NAMES= errors core
-# logging  core   minio postgresql utils sfqb tracing redis metrics nats apperror redis queryify
+NAMES= errors core tracing
+# logging  minio postgresql utils sfqb redis metrics nats apperror redis queryify
 .PHONY: tags
 tags: SHELL:=/bin/bash
 tags:
