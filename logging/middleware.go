@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"git.adapticode.com/libraries/golang/tracing"
+	"github.com/Kazzess/libraries/tracing"
 	"go.opentelemetry.io/otel/trace"
 	"google.golang.org/grpc"
 )
