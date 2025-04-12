@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"git.adapticode.com/libraries/golang/sfqb"
+	"github.com/Kazzess/libraries/sfqb"
 )
 
 const length = 2

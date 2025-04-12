@@ -3,9 +3,9 @@ package queryify
 import (
 	"errors"
 
-	"git.adapticode.com/libraries/golang/sfqb"
-	"git.adapticode.com/libraries/golang/sfqb/sfqb_rqp"
-	pb_common_filter "git.adapticode.com/platform/contracts/gen/go/common/filter/v1"
+	pb_common_filter "github.com/Kazzess/contracts/gen/go/common/filter/v1"
+	"github.com/Kazzess/libraries/sfqb"
+	"github.com/Kazzess/libraries/sfqb/sfqb_rqp"
 )
 
 const (
