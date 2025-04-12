@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log/slog"
 
-	"git.adapticode.com/libraries/golang/logging"
+	"github.com/Kazzess/libraries/logging"
 	"github.com/getsentry/sentry-go"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/status"
