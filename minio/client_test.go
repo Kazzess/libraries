@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"git.adapticode.com/libraries/golang/core/rnd"
+	"github.com/Kazzess/libraries/core/rnd"
 	"github.com/stretchr/testify/assert"
 )
 

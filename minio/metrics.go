@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"git.adapticode.com/libraries/golang/metrics"
+	"github.com/Kazzess/libraries/metrics"
 )
 
 const minioHealthCheckDuration = 5 * time.Second

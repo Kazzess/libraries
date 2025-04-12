@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"git.adapticode.com/libraries/golang/metrics"
+	"github.com/Kazzess/libraries/metrics"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 

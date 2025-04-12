@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"git.adapticode.com/libraries/golang/metrics"
+	"github.com/Kazzess/libraries/metrics"
 	"github.com/nats-io/nats.go"
 )
 

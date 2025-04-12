@@ -8,8 +8,8 @@ import (
 
 	"github.com/nats-io/nats.go"
 
-	"git.adapticode.com/libraries/golang/core/rnd"
-	"git.adapticode.com/libraries/golang/errors"
+	"github.com/Kazzess/libraries/core/rnd"
+	"github.com/Kazzess/libraries/errors"
 	"github.com/nats-io/nats-server/v2/server"
 	"github.com/stretchr/testify/require"
 )

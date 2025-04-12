@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"git.adapticode.com/libraries/golang/metrics"
+	"github.com/Kazzess/libraries/metrics"
 )
 
 var (

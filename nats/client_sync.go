@@ -6,8 +6,8 @@ import (
 
 	"github.com/nats-io/nats.go"
 
-	"git.adapticode.com/libraries/golang/errors"
-	"git.adapticode.com/libraries/golang/tracing"
+	"github.com/Kazzess/libraries/errors"
+	"github.com/Kazzess/libraries/tracing"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/propagation"
 	"go.opentelemetry.io/otel/trace"

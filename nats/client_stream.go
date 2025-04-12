@@ -6,7 +6,7 @@ import (
 
 	"github.com/nats-io/nats.go"
 
-	"git.adapticode.com/libraries/golang/errors"
+	"github.com/Kazzess/libraries/errors"
 )
 
 type StreamOption func(config *nats.StreamConfig)

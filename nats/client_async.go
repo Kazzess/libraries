@@ -5,10 +5,9 @@ import (
 	"fmt"
 	"log/slog"
 
-	"git.adapticode.com/libraries/golang/logging"
+	"github.com/Kazzess/libraries/logging"
+	"github.com/Kazzess/libraries/tracing"
 	"github.com/nats-io/nats.go"
-
-	"git.adapticode.com/libraries/golang/tracing"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/propagation"
 	"go.opentelemetry.io/otel/trace"
